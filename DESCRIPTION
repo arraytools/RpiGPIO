@@ -1,0 +1,9 @@
+Package: RpiGPIO
+Type: Package
+Title: Demonstration of Raspberry Pi's GPIO power
+Version: 0.1
+Date: 2013-04-13
+Author: MC Li
+Maintainer: MC Li <arraytools@gmail.com>
+Description: This package provides some applications of GPIO power in Raspberry Pi by using R.
+License: GNU

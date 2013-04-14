@@ -1,0 +1,2 @@
+useDynLib(RpiGPIO, .registration = TRUE)
+exportPattern("^[[:alpha:]]+")
